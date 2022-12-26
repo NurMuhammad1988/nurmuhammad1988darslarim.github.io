@@ -1,0 +1,27 @@
+.menu {
+    width: auto;
+    height: 900px;
+    background: rgba(226, 91, 114, 0.699);
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse;
+    flex-direction: row-reverse;
+    flex-direction: row; shu kodda hammasi joyida ishleydi */
+
+
+
+}
+
+.box {
+
+    width: 200px;
+    height: 180px;
+    border: 1px solid green;
+    background-color: rgba(214, 185, 185, 0.925);
+}
+
